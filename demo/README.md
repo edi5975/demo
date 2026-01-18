@@ -1,5 +1,5 @@
-HTML to Laravel 12 Blade Demo
-Overview
+## HTML to Laravel 12 Blade Demo
+## Overview
 
 This is a demo project showing how a static HTML / Bootstrap admin template can be converted into a Laravel 12 Blade layout.
 
@@ -15,7 +15,7 @@ Laravel 12 ready-to-use Blade structure
 
 This project is ideal for developers, agencies, or businesses who want HTML templates converted into Laravel-ready views quickly and professionally.
 
-Features
+## Features
 
 layouts/app.blade.php – master layout with @yield and @include
 
@@ -35,7 +35,7 @@ Mobile-friendly responsive layout
 
 Compatible with Laravel 12
 
-Project Structure
+## Project Structure
 resources/views/
 ├── layouts/
 │   └── app.blade.php
