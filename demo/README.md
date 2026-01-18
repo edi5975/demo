@@ -45,3 +45,6 @@ resources/views/
 │   └── footer.blade.php
 ├── dashboard.blade.php
 └── users.blade.php
+
+## Getting Started
+git clone https://github.com/edi5975/demo.git
